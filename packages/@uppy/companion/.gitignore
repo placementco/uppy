@@ -34,6 +34,7 @@ env.*
 !env.test.sh
 
 output/*
+!output/.keep
 test/output/*
 !test/output/.keep
 .DS_Store
